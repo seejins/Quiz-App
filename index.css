@@ -44,3 +44,16 @@
 button {
     margin-top: 20px;
 }
+
+.photo {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.photo p {
+    margin: auto;
+}
